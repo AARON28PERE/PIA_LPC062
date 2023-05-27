@@ -22,11 +22,11 @@ Con la ayuda de Python contamos con 13 scripts los cuales nos ayuda a analizar a
 
 Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Webscraping
 # Escanér de puertos
-Aqui encontramos 5 scripts de python los cuales nos ayudaran para poder escanear nuestra red local y los puertos que se encuentran dentro de la misma 
+Aqui encontramos 5 scripts de Python los cuales nos ayudaran para poder escanear nuestra red local y los puertos que se encuentran dentro de la misma 
 
 Enlace a la sección:https://github.com/AARON28PERE/PIA_LPC062/tree/main/Escan%C3%A9r%20de%20puertos
 # Envío de correos
-Aqui encontramos dos scripts los cuales nos ayudara para enviar mensajes de otra manera difernte ala normal haciendo uso de el formato HTML como tambien de nuestra clave presonal de nuestro correo y a sus vez poder mandar archivos adjuntos de nuestra computadora 
+Aqui encontramos dos scripts de Python los cuales nos ayudara para enviar mensajes de otra manera difernte ala normal haciendo uso de el formato HTML como tambien de nuestra clave presonal de nuestro correo y a sus vez poder mandar archivos adjuntos de nuestra computadora 
 
 Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Envi%C3%B3%20de%20Correos
 
