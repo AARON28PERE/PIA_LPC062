@@ -9,12 +9,12 @@ Producto Integrador de Aprendizaje - Laboratorio de Programación para Cibersegu
 Este repositorio tiene como objetivo la recopilación de los scripts que fueron utilizados durante el curso de Laboratorio de Programación para Ciberseguridad. Se incluyen diferentes secciones en las cuales encontraremos algunos temas vistos durante el semestre y a continuación se describe brevemente el contenido que se puede encontrar dentro de cada sección del repositorio.
 
 #  Scripting en PowerShell 
-En la sección de Scripting en PowerShell encontraremos tres scripts, los cuales nos servirán para poder hacer escaneo de puertos activos 
+En la sección de Scripting en PowerShell encontraremos 3 scripts, los cuales nos servirán para poder hacer escaneo de puertos activos 
 
 Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripting%20en%20PowerShell
 
 # Scripting en BASH
-Por medio de la utilización de BASH, tenemos seis scripts, los cuales realizan funciones para realizar escaneos de puertos ala red y dar menajes de bienvenida
+Por medio de la utilización de BASH, tenemos 6 scripts, los cuales realizan funciones para realizar escaneos de puertos ala red y dar menajes de bienvenida
 
 Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripting%20en%20Bash
 # Webscraping
