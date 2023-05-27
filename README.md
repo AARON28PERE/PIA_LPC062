@@ -19,5 +19,5 @@ Enlace a la sección https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripti
 # Scripting en BASH
 Por medio de la utilización de BASH, tenemos seis scripts, los cuales realizan funciones básicas para poder aprovechar los conocimientos básicos de este mismo. Partiendo desde un mensaje de bienvenida , hasta un escaneo completo de puertos y red .
 
-Enlace a la secciónhttps://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripting%20en%20Bash
+Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripting%20en%20Bash
 
