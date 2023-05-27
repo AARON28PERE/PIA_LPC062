@@ -1,3 +1,4 @@
+# Aaron Perez Esparza 1993809
 $subred = (Get-NetRoute -DestinationPrefix 0.0.0.0/0).NextHop
 Write-Host "==Determinando tu gateway ..."
 Write-Host "Tu gateway es: $subred"
