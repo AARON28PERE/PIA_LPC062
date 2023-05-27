@@ -11,3 +11,4 @@ Este repositorio tiene como objetivo la recopilación de los scripts que fueron 
 1 Python 2 PowerShell 3 BASH
 
 A continuación se describe brevemente el contenido que se puede encontrar dentro de cada sección del repositorio.
+#  Scripting en PowerShell 
