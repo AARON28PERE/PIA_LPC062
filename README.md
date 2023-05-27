@@ -20,4 +20,8 @@ Enlace a la sección https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripti
 Por medio de la utilización de BASH, tenemos seis scripts, los cuales realizan funciones para realizar escaneos de puertos ala red y dar menajes de bienvenida
 
 Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripting%20en%20Bash
+# Webscraping
+con esta actividad contamos con 13 scrpts los cuales nos ayuda a analizar archivos fuentes HTML de diferntes URL 
+
+Enlace a la sección:
 
