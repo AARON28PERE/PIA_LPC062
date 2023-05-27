@@ -14,7 +14,7 @@ A continuación se describe brevemente el contenido que se puede encontrar dentr
 #  Scripting en PowerShell 
 En la sección de Scripting en PowerShell encontraremos tres scripts, los cuales nos servirán para poder hacer escaneo de puertos activos 
 
-Enlace a la sección https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripting%20en%20PowerShell
+Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripting%20en%20PowerShell
 
 # Scripting en BASH
 Por medio de la utilización de BASH, tenemos seis scripts, los cuales realizan funciones para realizar escaneos de puertos ala red y dar menajes de bienvenida
