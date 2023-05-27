@@ -23,5 +23,5 @@ Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Script
 # Webscraping
 con esta actividad contamos con 13 scrpts los cuales nos ayuda a analizar archivos fuentes HTML de diferntes URL 
 
-Enlace a la sección:
+Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Webscraping
 
