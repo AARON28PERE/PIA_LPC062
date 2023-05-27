@@ -6,11 +6,8 @@ Producto Integrador de Aprendizaje - Laboratorio de Programación para Cibersegu
 #Matricula: 1993809
 
 # Descripción General del Repositorio
-Este repositorio tiene como objetivo la recopilación de los scripts que fueron utilizados durante el curso de Laboratorio de Programación para Ciberseguridad. Se incluyen secciones que van desde el manejo de APIs hasta la Automatización de Tareas, utilizando primordialmente tres lenguajes de programación, los cuales son:
+Este repositorio tiene como objetivo la recopilación de los scripts que fueron utilizados durante el curso de Laboratorio de Programación para Ciberseguridad. Se incluyen diferentes secciones en las cuales encontraremos algunos temas vistos durante el semestre y a continuación se describe brevemente el contenido que se puede encontrar dentro de cada sección del repositorio.
 
-1 Python 2 PowerShell 3 BASH
-
-A continuación se describe brevemente el contenido que se puede encontrar dentro de cada sección del repositorio.
 #  Scripting en PowerShell 
 En la sección de Scripting en PowerShell encontraremos tres scripts, los cuales nos servirán para poder hacer escaneo de puertos activos 
 
