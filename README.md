@@ -12,3 +12,6 @@ Este repositorio tiene como objetivo la recopilación de los scripts que fueron 
 
 A continuación se describe brevemente el contenido que se puede encontrar dentro de cada sección del repositorio.
 #  Scripting en PowerShell 
+En la sección de Scripting en PowerShell encontraremos tres scripts, los cuales nos servirán para poder hacer escaneo de puertos activos en nuestro dispositivo utilizando precisamente dicho lenguaje de programación, PowerShell
+
+Enlace a la sección https://github.com/AARON28PERE/PIA_LPC062/tree/main/Scripting%20en%20PowerShell
