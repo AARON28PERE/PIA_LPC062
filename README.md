@@ -24,4 +24,8 @@ Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Script
 con esta actividad contamos con 13 scrpts los cuales nos ayuda a analizar archivos fuentes HTML de diferntes URL 
 
 Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Webscraping
+# Escanér de puertos
+aqui encontramos 5 scripts de python los cuales nos ayudaran para poder escanear nuestra red local y los puertos que se encuentran dentro de la misma 
+
+Enlace a la sección:
 
