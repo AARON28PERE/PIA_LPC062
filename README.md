@@ -27,5 +27,5 @@ Enlace a la sección: https://github.com/AARON28PERE/PIA_LPC062/tree/main/Webscr
 # Escanér de puertos
 aqui encontramos 5 scripts de python los cuales nos ayudaran para poder escanear nuestra red local y los puertos que se encuentran dentro de la misma 
 
-Enlace a la sección:
+Enlace a la sección:https://github.com/AARON28PERE/PIA_LPC062/tree/main/Escan%C3%A9r%20de%20puertos
 
